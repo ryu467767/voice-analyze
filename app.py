@@ -186,7 +186,8 @@ with gr.Blocks(
     title="カラオケ声分析アプリ",
     theme=gr.themes.Soft(),
     css="""
-    .result-box { background: #f8f9fa; border-radius: 8px; padding: 16px; }
+    .result-box { background: #f8f9fa; border-radius: 8px; padding: 16px; color: #333 !important; }
+    .result-box h2, .result-box h3, .result-box p, .result-box td, .result-box th, .result-box li { color: #333 !important; }
     h2 { color: #333; border-bottom: 2px solid #4CAF50; padding-bottom: 4px; }
     """,
 ) as demo:
