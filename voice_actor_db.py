@@ -72,7 +72,15 @@ def build_database(force_rebuild: bool = False) -> dict[str, np.ndarray]:
     actor_dirs = get_actor_dirs()
 
     if not actor_dirs:
-        print("声優データが見つかりません。data/voice_actors/ にサンプルを追加してください。")
+        # voice_actors/ が無くても features/*.npy があれば直接ロード
+        npy_files = list(FEATURES_DIR.glob("*.npy"))
+        if npy_files:
+            print(f"data/voice_actors/ が見つかりません。features キャッシュから {len(npy_files)} 件を読み込みます。")
+            for npy_file in npy_files:
+                name = npy_file.stem
+                database[name] = np.load(npy_file)
+        else:
+            print("声優データが見つかりません。data/voice_actors/ にサンプルを追加してください。")
         return database
 
     for actor_dir in actor_dirs:
