@@ -1,0 +1,20 @@
+# 音声ファイル（著作権・容量の問題でGitに上げない）
+data/voice_actors/
+
+# 特徴量キャッシュはGitに含める（これがないとRenderで声優マッチングが動かない）
+# → data/features/*.npy は .gitignore に書かない
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ログなど
+*.log

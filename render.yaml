@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: karaoke-voice-app
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python app.py
+    envVars:
+      - key: RENDER
+        value: "1"
+    # Render 無料プランは 512MB RAM
+    # librosa の初回ロードが重いので healthCheckPath を長めに設定

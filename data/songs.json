@@ -1,0 +1,404 @@
+{
+  "songs": [
+    {
+      "title": "残酷な天使のテーゼ",
+      "artist": "高橋洋子",
+      "source": "新世紀エヴァンゲリオン",
+      "voice_type": "female",
+      "lowest_note": "G#3",
+      "highest_note": "G#5",
+      "difficulty": "hard",
+      "notes": "音域が約2オクターブと広い。サビの高音が難所"
+    },
+    {
+      "title": "愛をこめて花束を",
+      "artist": "Superfly",
+      "source": "",
+      "voice_type": "female",
+      "lowest_note": "E3",
+      "highest_note": "A5",
+      "difficulty": "hard",
+      "notes": "Superflyの圧倒的な声量と高音が必要"
+    },
+    {
+      "title": "紅蓮華",
+      "artist": "LiSA",
+      "source": "鬼滅の刃",
+      "voice_type": "female",
+      "lowest_note": "F3",
+      "highest_note": "F5",
+      "difficulty": "medium",
+      "notes": "LiSAらしい力強い発声が映える曲"
+    },
+    {
+      "title": "炎（ほむら）",
+      "artist": "LiSA",
+      "source": "劇場版 鬼滅の刃",
+      "voice_type": "female",
+      "lowest_note": "E3",
+      "highest_note": "E5",
+      "difficulty": "medium",
+      "notes": "紅蓮華より落ち着いた音域で歌いやすい"
+    },
+    {
+      "title": "夜に駆ける",
+      "artist": "YOASOBI",
+      "source": "",
+      "voice_type": "female",
+      "lowest_note": "G3",
+      "highest_note": "G5",
+      "difficulty": "hard",
+      "notes": "テンポが速く、音域も広い。ikuraの独特な歌い方が難しい"
+    },
+    {
+      "title": "アイドル",
+      "artist": "YOASOBI",
+      "source": "推しの子",
+      "voice_type": "female",
+      "lowest_note": "F3",
+      "highest_note": "F5",
+      "difficulty": "hard",
+      "notes": "速いテンポと細かい音符が難所"
+    },
+    {
+      "title": "First Love",
+      "artist": "宇多田ヒカル",
+      "source": "",
+      "voice_type": "female",
+      "lowest_note": "E3",
+      "highest_note": "D5",
+      "difficulty": "easy",
+      "notes": "音域は広くなく歌いやすい。表現力が大切"
+    },
+    {
+      "title": "花束を君に",
+      "artist": "宇多田ヒカル",
+      "source": "",
+      "voice_type": "female",
+      "lowest_note": "D3",
+      "highest_note": "C5",
+      "difficulty": "easy",
+      "notes": "比較的低い音域で歌いやすい女性曲"
+    },
+    {
+      "title": "ハナミズキ",
+      "artist": "一青窈",
+      "source": "",
+      "voice_type": "female",
+      "lowest_note": "E3",
+      "highest_note": "E5",
+      "difficulty": "easy",
+      "notes": "ゆったりしたテンポで初心者にも歌いやすい"
+    },
+    {
+      "title": "やさしさに包まれたなら",
+      "artist": "荒井由実（松任谷由実）",
+      "source": "魔女の宅急便",
+      "voice_type": "female",
+      "lowest_note": "D3",
+      "highest_note": "B4",
+      "difficulty": "easy",
+      "notes": "音域が狭く、カラオケ初心者にも親しみやすい"
+    },
+    {
+      "title": "さくら（独唱）",
+      "artist": "森山直太朗",
+      "source": "",
+      "voice_type": "any",
+      "lowest_note": "E3",
+      "highest_note": "E5",
+      "difficulty": "medium",
+      "notes": "男女どちらもチャレンジしやすい名曲"
+    },
+    {
+      "title": "千本桜",
+      "artist": "黒うさP / 初音ミク",
+      "source": "ボーカロイド",
+      "voice_type": "female",
+      "lowest_note": "F3",
+      "highest_note": "F5",
+      "difficulty": "medium",
+      "notes": "テンポが速い。音域はやや広め"
+    },
+    {
+      "title": "ロキ",
+      "artist": "みきとP / 鏡音リン",
+      "source": "ボーカロイド",
+      "voice_type": "female",
+      "lowest_note": "E3",
+      "highest_note": "E5",
+      "difficulty": "medium",
+      "notes": "独特のリズムと音域。原曲キーで歌いにくければ調整を"
+    },
+    {
+      "title": "366日",
+      "artist": "HY",
+      "source": "",
+      "voice_type": "female",
+      "lowest_note": "E3",
+      "highest_note": "F5",
+      "difficulty": "medium",
+      "notes": "感情表現が大切。サビの高音がポイント"
+    },
+    {
+      "title": "Woman 〜Wの悲劇より〜",
+      "artist": "中島みゆき",
+      "source": "",
+      "voice_type": "female",
+      "lowest_note": "D3",
+      "highest_note": "E5",
+      "difficulty": "medium",
+      "notes": "ドラマチックな展開。パワフルな声が映える"
+    },
+    {
+      "title": "Lemon",
+      "artist": "米津玄師",
+      "source": "",
+      "voice_type": "male",
+      "lowest_note": "A#2",
+      "highest_note": "F#4",
+      "difficulty": "medium",
+      "notes": "低音から中音の音域。米津玄師の独特な声質が特徴的"
+    },
+    {
+      "title": "打上花火",
+      "artist": "DAOKO × 米津玄師",
+      "source": "",
+      "voice_type": "male",
+      "lowest_note": "A#2",
+      "highest_note": "G4",
+      "difficulty": "medium",
+      "notes": "米津パートは中低音域。DАОКОパートは女性向け"
+    },
+    {
+      "title": "廻廻奇譚",
+      "artist": "Eve",
+      "source": "呪術廻戦",
+      "voice_type": "male",
+      "lowest_note": "G#2",
+      "highest_note": "A4",
+      "difficulty": "hard",
+      "notes": "音域が広く、高音部が難しい。Eveの独特な歌い方"
+    },
+    {
+      "title": "シルエット",
+      "artist": "KANA-BOON",
+      "source": "NARUTO",
+      "voice_type": "male",
+      "lowest_note": "G2",
+      "highest_note": "F#4",
+      "difficulty": "easy",
+      "notes": "テンポよく歌えるロック曲。男性に歌いやすい音域"
+    },
+    {
+      "title": "前前前世",
+      "artist": "RADWIMPS",
+      "source": "君の名は。",
+      "voice_type": "male",
+      "lowest_note": "F2",
+      "highest_note": "E4",
+      "difficulty": "medium",
+      "notes": "テンポが速い。音域は比較的男性に歌いやすい範囲"
+    },
+    {
+      "title": "紅蓮の弓矢",
+      "artist": "Linked Horizon",
+      "source": "進撃の巨人",
+      "voice_type": "male",
+      "lowest_note": "C3",
+      "highest_note": "C5",
+      "difficulty": "medium",
+      "notes": "2オクターブの音域。高音部は要練習"
+    },
+    {
+      "title": "チェリー",
+      "artist": "スピッツ",
+      "source": "",
+      "voice_type": "male",
+      "lowest_note": "C3",
+      "highest_note": "C5",
+      "difficulty": "medium",
+      "notes": "草野マサムネ特有のファルセットが特徴。高音が多め"
+    },
+    {
+      "title": "夜空ノムコウ",
+      "artist": "SMAP",
+      "source": "",
+      "voice_type": "male",
+      "lowest_note": "C3",
+      "highest_note": "B4",
+      "difficulty": "easy",
+      "notes": "歌いやすい音域。定番カラオケ曲"
+    },
+    {
+      "title": "世界に一つだけの花",
+      "artist": "SMAP",
+      "source": "",
+      "voice_type": "male",
+      "lowest_note": "B2",
+      "highest_note": "A4",
+      "difficulty": "easy",
+      "notes": "みんな知っている定番曲。音域も広くない"
+    },
+    {
+      "title": "ドライフラワー",
+      "artist": "優里",
+      "source": "",
+      "voice_type": "male",
+      "lowest_note": "D3",
+      "highest_note": "B4",
+      "difficulty": "medium",
+      "notes": "優里の柔らかい声質が映える。サビの高音がポイント"
+    },
+    {
+      "title": "栄光の架橋",
+      "artist": "ゆず",
+      "source": "",
+      "voice_type": "male",
+      "lowest_note": "D3",
+      "highest_note": "B4",
+      "difficulty": "medium",
+      "notes": "感情的に歌える曲。高音は少し高め"
+    },
+    {
+      "title": "少年時代",
+      "artist": "井上陽水",
+      "source": "",
+      "voice_type": "male",
+      "lowest_note": "C3",
+      "highest_note": "A4",
+      "difficulty": "easy",
+      "notes": "ゆったりした名曲。男性に歌いやすい音域"
+    },
+    {
+      "title": "奏（かなで）",
+      "artist": "スキマスイッチ",
+      "source": "",
+      "voice_type": "male",
+      "lowest_note": "E3",
+      "highest_note": "C5",
+      "difficulty": "medium",
+      "notes": "やや高めの男性曲。ファルセットが使えると◎"
+    },
+    {
+      "title": "贈る言葉",
+      "artist": "海援隊",
+      "source": "",
+      "voice_type": "male",
+      "lowest_note": "C3",
+      "highest_note": "A4",
+      "difficulty": "easy",
+      "notes": "中低音域の定番男性曲"
+    },
+    {
+      "title": "乾杯",
+      "artist": "長渕剛",
+      "source": "",
+      "voice_type": "male",
+      "lowest_note": "A2",
+      "highest_note": "A4",
+      "difficulty": "easy",
+      "notes": "低音男性に歌いやすい名曲"
+    },
+    {
+      "title": "ヒトリノ夜",
+      "artist": "ポルノグラフィティ",
+      "source": "",
+      "voice_type": "male",
+      "lowest_note": "D3",
+      "highest_note": "D5",
+      "difficulty": "medium",
+      "notes": "2オクターブ近い音域。岡野昭仁の高音が特徴"
+    },
+    {
+      "title": "115万キロのフィルム",
+      "artist": "Official髭男dism",
+      "source": "",
+      "voice_type": "male",
+      "lowest_note": "E3",
+      "highest_note": "E5",
+      "difficulty": "hard",
+      "notes": "ヒゲダンの高音域曲。テナー向け"
+    },
+    {
+      "title": "プリテンダー",
+      "artist": "Official髭男dism",
+      "source": "",
+      "voice_type": "male",
+      "lowest_note": "D3",
+      "highest_note": "D5",
+      "difficulty": "hard",
+      "notes": "ヒゲダン特有の高音。上手く歌えると盛り上がる"
+    },
+    {
+      "title": "ダンスホール",
+      "artist": "Mrs. GREEN APPLE",
+      "source": "",
+      "voice_type": "male",
+      "lowest_note": "E3",
+      "highest_note": "E5",
+      "difficulty": "hard",
+      "notes": "大森元貴の独特な高音域。男性高音向け"
+    },
+    {
+      "title": "インフェルノ",
+      "artist": "Mrs. GREEN APPLE",
+      "source": "炎炎ノ消防隊",
+      "voice_type": "male",
+      "lowest_note": "D3",
+      "highest_note": "D5",
+      "difficulty": "hard",
+      "notes": "疾走感あるアニメOP。高音域が続く"
+    },
+    {
+      "title": "気まぐれロマンティック",
+      "artist": "いきものがかり",
+      "source": "",
+      "voice_type": "female",
+      "lowest_note": "F3",
+      "highest_note": "E5",
+      "difficulty": "easy",
+      "notes": "明るく歌いやすい。吉岡聖恵の伸びやかな声が特徴"
+    },
+    {
+      "title": "HANABI",
+      "artist": "Mr.Children",
+      "source": "",
+      "voice_type": "male",
+      "lowest_note": "D3",
+      "highest_note": "B4",
+      "difficulty": "medium",
+      "notes": "ミスチルの名曲。桜井和寿の中音域で歌いやすい"
+    },
+    {
+      "title": "Hero",
+      "artist": "Mr.Children",
+      "source": "",
+      "voice_type": "male",
+      "lowest_note": "C3",
+      "highest_note": "B4",
+      "difficulty": "easy",
+      "notes": "ゆったりとした男性中音域の名曲"
+    },
+    {
+      "title": "マリーゴールド",
+      "artist": "あいみょん",
+      "source": "",
+      "voice_type": "female",
+      "lowest_note": "D3",
+      "highest_note": "C5",
+      "difficulty": "easy",
+      "notes": "低めの女性曲。比較的歌いやすい音域"
+    },
+    {
+      "title": "愛の言葉",
+      "artist": "CHEMISTRY",
+      "source": "",
+      "voice_type": "male",
+      "lowest_note": "C3",
+      "highest_note": "A4",
+      "difficulty": "medium",
+      "notes": "デュオ曲。中音域でまとまっている"
+    }
+  ]
+}
